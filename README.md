@@ -87,7 +87,7 @@ I'm a passionate Fullstack Software Engineer with a strong background in buildin
     </a>
 </p>
 
-<h3 align="center">🥷 Open Source Projects and Contributions</h3>
+<h3 align="center">🥷 Open Source Projects</h3>
 
 - [tguankheng016/dotnet-commerce-microservice](https://github.com/tguankheng016/dotnet-commerce-microservice): A practical and imaginary ecommerce microservices, built with .Net 8, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies.
 
